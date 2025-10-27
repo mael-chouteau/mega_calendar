@@ -43,16 +43,16 @@ Please make sure that you set your users, that will be allowed to use this plugi
 
 <h2>Screenshots</h2>
 
-A quick overview about this plugin, you'll get on <a href="http://www.devbert.de/index.php/en/project/megacalendar/">http://www.devbert.de/index.php/en/project/megacalendar/</a>
+A quick overview about this plugin, you'll get on <a href="https://devbert.de/referenzen/megacalendar-redmine-plugin-english/">http://www.devbert.de/index.php/en/project/megacalendar/</a>
 
 <h2>You need your redmine hosted in germany?</h2>
-<a href="https://www.devbert.de/index.php/de/redmine-hosting/">Our hosting offer</a>
+<a href="https://devbert.de/hosting/redmine-hosting/">Our hosting offer</a>
 
 <h2>You like my work?</h2>
 
 If you like my work, you can buy me a coffee [![Paypal Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=simplyanamedude@gmail.com&lc=GB&item_name=Andreas%20Treubert&no_note=0&currency_code=EUR&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest)
 
-If you need customized software, you can contact me <a href="mailto:support@devbert.de">support@devbert.de</a> or visit my company website <a href="http://www.devbert.de">www.devbert.de</a>.
+If you need customized software, you can contact me <a href="mailto:support@devbert.de">support@devbert.de</a> or visit my company website <a href="https://devbert.de">devbert.de</a>.
 
 <h2>License</h2>
 
