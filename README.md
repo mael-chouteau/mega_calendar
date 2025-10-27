@@ -43,7 +43,7 @@ Please make sure that you set your users, that will be allowed to use this plugi
 
 <h2>Screenshots</h2>
 
-A quick overview about this plugin, you'll get on <a href="https://devbert.de/referenzen/megacalendar-redmine-plugin-english/">http://www.devbert.de/index.php/en/project/megacalendar/</a>
+A quick overview about this plugin, you'll get on <a href="https://devbert.de/referenzen/megacalendar-redmine-plugin-english/">https://devbert.de/referenzen/megacalendar-redmine-plugin-english/</a>
 
 <h2>You need your redmine hosted in germany?</h2>
 <a href="https://devbert.de/hosting/redmine-hosting/">Our hosting offer</a>
